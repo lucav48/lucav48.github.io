@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Luca Virgili"
+title                    : #"Luca Virgili"
 title_separator          : "-"
 name                     : &name "Luca Virgili"
 description              : &description "PostDoc Researcher at Polytechnic University of Marche"
