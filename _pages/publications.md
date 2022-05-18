@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Luca Virgili"
 permalink: /publications/
 author_profile: true
 ---
