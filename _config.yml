@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Luca Virgili"
 title_separator          : "-"
 name                     : &name "Luca Virgili"
 description              : &description "PostDoc Researcher at Polytechnic University of Marche"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/lucavirgili/"
+  linkedin         : "lucavirgili"
   orcid            : "https://orcid.org/0000-0003-1509-783X"
   pinterest        :
   soundcloud       :
