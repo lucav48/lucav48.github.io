@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "PostDoc Researcher at Polytechnic University of Marche"
   location         : "Ancona, Marche"
-  employer         : "Polytechnic University of Marche"
+  employer         : #"Polytechnic University of Marche"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=2D771YsAAAAJ"
   email            : "luca.virgili@staff.univpm.it"
