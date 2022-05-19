@@ -6,4 +6,5 @@ excerpt: 'E. Corradini, A.  Nocera, D.  Ursino, L.  Virgili'
 date: 2021-10-01
 venue: 'International Journal of Information Management'
 link: 'https://doi.org/10.1016/j.ijinfomgt.2021.102377'
+location: 'University of Pavia, Polytechnic University of Marche'
 ---

@@ -10,8 +10,17 @@ def authors(x):
     return ", ".join(new_aut)
 
 
+def institutions(x):
+    ins = x.split("|")
+    new_ins = []
+    for i in ins:
+        new_ins.append(i.replace("Marche Polytechnic University", "Polytechnic University of Marche"))
+    return ",".join(new_ins)
+
+
 pub = pd.read_csv("scopus.csv")
 pub["Authors"] = pub["Authors"].apply(lambda x: authors(x))
+pub["Institutions"] = pub["Institutions"].apply(lambda x: institutions(x))
 pub = pub.rename(columns={"Scopus Source title": "Journal"})
 
 for _, p in pub.iterrows():
@@ -25,4 +34,5 @@ for _, p in pub.iterrows():
     f.write("date: " + p["Full date"] + "\n")
     f.write("venue: '" + p["Journal"] + "'\n")
     f.write("link: 'https://doi.org/" + p["DOI"] + "'\n")
+    f.write("location: '" + p["Institutions"] + "'\n")
     f.write("---")

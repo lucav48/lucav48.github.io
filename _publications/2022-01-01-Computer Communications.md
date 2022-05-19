@@ -6,4 +6,5 @@ excerpt: 'E. Corradini, S.  Nicolazzo, A.  Nocera, D.  Ursino, L.  Virgili'
 date: 2022-01-01
 venue: 'Computer Communications'
 link: 'https://doi.org/10.1016/j.comcom.2021.10.028'
+location: 'University of Pavia, Polytechnic University of Marche'
 ---
