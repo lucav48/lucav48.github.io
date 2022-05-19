@@ -14,6 +14,7 @@ def institutions(x):
     ins = x.split("|")
     new_ins = []
     for i in ins:
+        i = i.replace("\xa0", "")
         new_ins.append(i.replace("Marche Polytechnic University", "Polytechnic University of Marche"))
     return ",".join(new_ins)
 
