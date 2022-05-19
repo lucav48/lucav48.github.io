@@ -20,11 +20,11 @@ for _, p in pub.iterrows():
     f.write("---\n")
     f.write("title: " + p["Title"] + "\n")
     f.write("collection: publications\n")
-    #f.write("permalink: /publication/" + filename + "\n")
+    f.write("permalink: /publication/" + filename + "\n")
     f.write("excerpt: " + p["Authors"] + "\n")
     f.write("date: " + p["Full date"] + "\n")
     f.write("venue: " + p["Journal"] + "\n")
-    f.write("paperurl: '" + p["DOI"] + "'\n")
+    f.write("link: 'https://" + p["DOI"] + "'\n")
     f.write("---")
     break
 print()
