@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+Download my resume [here](https://lucav48.github.io/files/CV.pdf)
+
 Education
 ======
 * Bachelor degree Computer and Automation Engineering, Polytechnic University of Marche, 2016
