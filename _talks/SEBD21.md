@@ -1,9 +1,7 @@
 ---
 title: "Increasing protection and autonomy in the IoT through a two-tier blockchain framework"
-authors: prova prova
-author: prova
 collection: talks
-type: "Talk"
+type: "Paper presentation"
 permalink: /talks/SEBD21
 venue: "Italian Symposium on Advanced Database Systems"
 date: 24-06-2020
