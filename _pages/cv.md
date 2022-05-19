@@ -1,40 +1,43 @@
 ---
 layout: archive
-title: "Luca Virgili"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor degree Computer and Automation Engineering, Polytechnic University of Marche, 2016
+* Master degree Computer and Automation Engineering, Polytechnic University of Marche, 2018
+* International Cyber Security Summer School, The Hague, 2018
+* Ph.D. Computer Science, Polytechnic University of Marche, 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Lecturer of Business Intelligence course at Istituto di Formazione ISTAO, 2021
+* Lecturer of Business Intelligence course at Xplace, 2021
+* Lecturer of Social Network Analysis course at FairConnect, 2021
+* Mentor for DBpedia Organization (Google Summer of Code), 2020 [Github repository](https://github.com/dbpedia/gsoc-2020-dashboard)
+* Lecturer of Advanced Python course at SELDA Informatica, 2020
+* Lecturer of Business Intelligence course at Istituto di Formazione ISTAO, 2020
+* Lecturer of Software and Big Data Management course at FairConnect, 2020
+* Lecturer of Advanced Python course at SELDA Informatica, 2020
+* Lecturer of Python environment course at SELDA Informatica, 2019
+* Mentor for DBpedia Organization (Google Summer of Code), 2019 [Github repository](https://github.com/dbpedia/linking)
+* Lecturer of Business Intelligence course at Istituto di Formazione ISTAO, 2019
+* Mentor for DBpedia Organization (Google Summer of Code), 2018 [Github repository](https://github.com/dbpedia/tablist-extractor)
+* Student Developer for DBpedia Organization (Google Summer of Code), 2017 [Github repository](https://github.com/dbpedia/table-extractor)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Machine Learning
+* Deep Learning
+* Social Network Analysis
+* Data Visualization
+* BI Tools: Qlik Sense, Tableau, Power BI
 
 Publications
 ======
@@ -53,7 +56,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
