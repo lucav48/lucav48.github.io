@@ -18,7 +18,7 @@ for _, p in pub.iterrows():
     filename = p["Full date"] + "-" + p["Journal"] + ".md"
     f = open("../_publications/" + filename, "w")
     f.write("---\n")
-    f.write("title: '" + p["Title"] + "'\n")
+    f.write("title: '" + p["Title"].replace("'", "").replace("–", "-") + "'\n")
     f.write("collection: publications\n")
     f.write("permalink: /publication/" + filename + "\n")
     f.write("excerpt: '" + p["Authors"] + "'\n")
