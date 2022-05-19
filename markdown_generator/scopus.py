@@ -26,5 +26,3 @@ for _, p in pub.iterrows():
     f.write("venue: '" + p["Journal"] + "'\n")
     f.write("link: 'https://doi.org/" + p["DOI"] + "'\n")
     f.write("---")
-    break
-print()
