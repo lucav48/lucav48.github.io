@@ -6,4 +6,5 @@ excerpt: 'F. Cauteruccio, L.  Cinelli, G.  Fortino, C.  Savaglio, G.  Terracina,
 date: 2020-09-01
 venue: 'Pervasive and Mobile Computing'
 link: 'https://doi.org/10.1016/j.pmcj.2020.101223'
+location: 'Polytechnic University of Marche, University of Calabria'
 ---

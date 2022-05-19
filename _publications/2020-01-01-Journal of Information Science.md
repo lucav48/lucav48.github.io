@@ -6,4 +6,5 @@ excerpt: 'F. Cauteruccio, E.  Corradini, G.  Terracina, D.  Ursino, L.  Virgili'
 date: 2020-01-01
 venue: 'Journal of Information Science'
 link: 'https://doi.org/10.1177/0165551520979869'
+location: 'Polytechnic University of Marche, University of Calabria'
 ---

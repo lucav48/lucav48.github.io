@@ -6,4 +6,5 @@ excerpt: 'P. Lo Giudice, N.  Mammone, F.C.  Morabito, R.G.  Pizzimenti, D.  Ursi
 date: 2019-09-01
 venue: 'Medical and Biological Engineering and Computing'
 link: 'https://doi.org/10.1007/s11517-019-02004-y'
+location: 'Polytechnic University of Marche, IRCCS Centro Neurolesi Bonino Pulejo - Messina, University Institute of Architecture of Reggio Calabria'
 ---

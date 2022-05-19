@@ -6,4 +6,5 @@ excerpt: 'E. Corradini, G.  Porcino, A.  Scopelliti, D.  Ursino, L.  Virgili'
 date: 2022-04-01
 venue: 'Expert Systems with Applications'
 link: 'https://doi.org/10.1016/j.eswa.2021.116282'
+location: 'Polytechnic University of Marche, Daimler AG'
 ---

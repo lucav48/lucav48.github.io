@@ -6,4 +6,5 @@ excerpt: 'F. Cauteruccio, L.  Cinelli, G.  Terracina, D.  Ursino, L.  Virgili'
 date: 2019-01-01
 venue: 'CEUR Workshop Proceedings'
 link: 'https://doi.org/-'
+location: 'Polytechnic University of Marche, University of Calabria'
 ---

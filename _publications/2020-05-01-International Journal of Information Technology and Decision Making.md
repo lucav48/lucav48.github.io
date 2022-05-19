@@ -6,4 +6,5 @@ excerpt: 'F. Cauteruccio, P.L.  Giudice, L.  Musarella, G.  Terracina, D.  Ursin
 date: 2020-05-01
 venue: 'International Journal of Information Technology and Decision Making'
 link: 'https://doi.org/10.1142/S0219622020500182'
+location: 'Polytechnic University of Marche, University Institute of Architecture of Reggio Calabria, University of Calabria'
 ---
