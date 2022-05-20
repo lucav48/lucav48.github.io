@@ -25,7 +25,7 @@ The main field of research is the analysis of **Complex and Social Networks**. I
 Another research field of interest is the **Artificial Intelligence** one. In this case, there are two different research topics. The former regards a study of how Machine Learning can be used effectively in predicting user falls. The latter regards the **Explainable AI** (XAI) and **Model Compression**. I am actually investigating the possible interpretation of deep convolutional neural networks through Multilayer Networks and Complex Network Analysis. This new representation could highlight relevant network structures, patterns and features that could be useful to understand what happens under the hood of a deep neural network. This knowledge could then be leveraged to compress a deep learning model, and so to obtain a lighter version with fewer parameters and faster training and inference times.
 <p style="text-align:center">
 <a href="https://www.sciencedirect.com/science/article/pii/S095741742101589X">
-<img src="https://lucav48.github.io/images/saliency.png" width="80%" height="80%" />
+<img src="https://lucav48.github.io/images/saliency-noline.png" width="80%" height="80%" />
 </a></p>
 
 Finally, in the IoT context, a new field of research is the one called **Multiple IoT** (MIoT), which is a way to investigate the IoT as a set of subnets capable of interacting with each other through cross object. Several properties have been studied in this line of research, such as the definition and study of anomalies, a two-tier blockchain architecture to ensure protection and automation, a trust and reputation model of smart objects, and an approach to ensure user privacy thanks to prevent feature disclosure.
