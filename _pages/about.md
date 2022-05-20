@@ -33,5 +33,5 @@ Finally, in the IoT context, a new field of research is the one called Multiple 
 
 <p style="text-align:center">
 <a href="https://www.sciencedirect.com/science/article/pii/S0140366421004084">
-<img src="https://lucav48.github.io/images/iot.png" />
+<img src="https://lucav48.github.io/images/iot.png" width="80%" height="80%" />
 </a></p>
