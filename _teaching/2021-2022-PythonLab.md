@@ -1,7 +1,7 @@
 ---
 title: "Python Lab for Applications"
 collection: teaching
-type: "Master course"
+type: "Master course in Data Science for Economics and Business"
 permalink: /teaching/2021-2022-PythonLab
 venue: "Polytechnic University of Marche"
 date: 24-02-2022
