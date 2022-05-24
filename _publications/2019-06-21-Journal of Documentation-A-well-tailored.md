@@ -1,7 +1,7 @@
 ---
 title: 'A well-tailored centrality measure for evaluating patents and their citations'
 collection: publications
-permalink: /publication/2019-06-21-Journal of Documentation.md
+permalink: /publication/2019-06-21-Journal of Documentation-A-well-tailored.md
 excerpt: 'C. Donato, P.  Lo Giudice, R.  Marretta, D.  Ursino, L.  Virgili'
 date: 2019-06-21
 venue: 'Journal of Documentation'

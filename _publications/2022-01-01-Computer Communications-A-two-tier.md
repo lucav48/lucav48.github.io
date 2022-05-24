@@ -1,7 +1,7 @@
 ---
 title: 'A two-tier Blockchain framework to increase protection and autonomy of smart objects in the IoT'
 collection: publications
-permalink: /publication/2022-01-01-Computer Communications.md
+permalink: /publication/2022-01-01-Computer Communications-A-two-tier.md
 excerpt: 'E. Corradini, S.  Nicolazzo, A.  Nocera, D.  Ursino, L.  Virgili'
 date: 2022-01-01
 venue: 'Computer Communications'

@@ -24,8 +24,9 @@ pub["Authors"] = pub["Authors"].apply(lambda x: authors(x))
 pub["Institutions"] = pub["Institutions"].apply(lambda x: institutions(x))
 pub = pub.rename(columns={"Scopus Source title": "Journal"})
 
-for _, p in pub.iterrows():
-    filename = p["Full date"] + "-" + p["Journal"] + ".md"
+for i, p in pub.iterrows():
+    print(i)
+    filename = p["Full date"] + "-" + p["Journal"] + "-" + "-".join(p["Title"].replace(":", "").split(" ")[:2]) + ".md"
     f = open("../_publications/" + filename, "w")
     f.write("---\n")
     f.write("title: '" + p["Title"].replace("'", "").replace("–", "-") + "'\n")
@@ -37,3 +38,4 @@ for _, p in pub.iterrows():
     f.write("link: 'https://doi.org/" + p["DOI"] + "'\n")
     f.write("location: '" + p["Institutions"] + "'\n")
     f.write("---")
+    f.close()
