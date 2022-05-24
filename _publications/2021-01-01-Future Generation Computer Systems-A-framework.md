@@ -1,7 +1,7 @@
 ---
 title: 'A framework for anomaly detection and classification in Multiple IoT scenarios'
 collection: publications
-permalink: /publication/2021-01-01-Future Generation Computer Systems.md
+permalink: /publication/2021-01-01-Future Generation Computer Systems-A-framework.md
 excerpt: 'F. Cauteruccio, L.  Cinelli, E.  Corradini, G.  Terracina, D.  Ursino, L.  Virgili, C.  Savaglio, A.  Liotta, G.  Fortino'
 date: 2021-01-01
 venue: 'Future Generation Computer Systems'

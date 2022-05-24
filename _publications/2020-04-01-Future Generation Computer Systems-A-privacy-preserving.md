@@ -1,7 +1,7 @@
 ---
 title: 'A privacy-preserving approach to prevent feature disclosure in an IoT scenario'
 collection: publications
-permalink: /publication/2020-04-01-Future Generation Computer Systems.md
+permalink: /publication/2020-04-01-Future Generation Computer Systems-A-privacy-preserving.md
 excerpt: 'S. Nicolazzo, A.  Nocera, D.  Ursino, L.  Virgili'
 date: 2020-04-01
 venue: 'Future Generation Computer Systems'

@@ -1,7 +1,7 @@
 ---
 title: 'Humanizing IoT: Defining the Profile and the Reliability of a Thing in a Multi-IoT Scenario'
 collection: publications
-permalink: /publication/2020-01-01-Studies in Computational Intelligence.md
+permalink: /publication/2020-01-01-Studies in Computational Intelligence-Humanizing-IoT.md
 excerpt: 'D. Ursino, L.  Virgili'
 date: 2020-01-01
 venue: 'Studies in Computational Intelligence'

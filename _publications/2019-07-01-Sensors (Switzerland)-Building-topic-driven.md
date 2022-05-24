@@ -1,7 +1,7 @@
 ---
 title: 'Building topic-driven virtual iots in a multiple iots scenario'
 collection: publications
-permalink: /publication/2019-07-01-Sensors (Switzerland).md
+permalink: /publication/2019-07-01-Sensors (Switzerland)-Building-topic-driven.md
 excerpt: 'P. Lo Giudice, A.  Nocera, D.  Ursino, L.  Virgili'
 date: 2019-07-01
 venue: 'Sensors (Switzerland)'
