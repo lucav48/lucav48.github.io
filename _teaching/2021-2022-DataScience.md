@@ -7,4 +7,4 @@ venue: "Polytechnic University of Marche"
 date: 20-09-2021
 location: "Ancona, Italy"
 ---
-Teaching tutor activity for the Data Science course for 20 hours.
+Teaching tutor activity for the Data Science course (20 hours).
