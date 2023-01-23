@@ -11,10 +11,10 @@ Download my resume [here](https://lucav48.github.io/files/CV.pdf)
 
 Education
 ======
-* Bachelor degree Computer and Automation Engineering, Polytechnic University of Marche, 2016
-* Master degree Computer and Automation Engineering, Polytechnic University of Marche, 2018
-* International Cyber Security Summer School, The Hague, 2018
 * Ph.D. Computer Science, Polytechnic University of Marche, 2021
+* International Cyber Security Summer School, The Hague, 2018
+* Master degree Computer and Automation Engineering, Polytechnic University of Marche, 2018
+* Bachelor degree Computer and Automation Engineering, Polytechnic University of Marche, 2016
 
 Work experience
 ======
@@ -43,18 +43,18 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
