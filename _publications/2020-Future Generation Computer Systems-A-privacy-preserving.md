@@ -6,5 +6,5 @@ excerpt: 'S. Nicolazzo, A. Nocera, D. Ursino, L. Virgili'
 date: 2020-01-01
 venue: 'Future Generation Computer Systems'
 link: 'https://doi.org/10.1016/j.future.2019.12.017'
-location: 'Sky Italia, Italy; DIII, University of Pavia, Italy; DII, Polytechnic University of Marche, Italy'
+location: 'Sky Italia, Italy, DIII, University of Pavia, Italy, DII, Polytechnic University of Marche, Italy'
 ---

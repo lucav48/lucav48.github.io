@@ -6,5 +6,5 @@ excerpt: 'G. Bonifazi, F. Cauteruccio, E. Corradini, M. Marchetti, A. Pierini, G
 date: 2022-01-01
 venue: 'Data and Knowledge Engineering'
 link: 'https://doi.org/10.1016/j.datak.2022.102048'
-location: 'DII, Polytechnic University of Marche, Italy; DEMACS, University of Calabria, Italy; Injenia, Italy'
+location: 'DII, Polytechnic University of Marche, Italy, DEMACS, University of Calabria, Italy, Injenia, Italy'
 ---

@@ -6,5 +6,5 @@ excerpt: 'G. Bonifazi, F. Cauteruccio, E. Corradini, M. Marchetti, G. Terracina,
 date: 2022-01-01
 venue: 'Journal of Information Science'
 link: 'https://doi.org/10.1177/01655515221087663'
-location: 'DII, Polytechnic University of Marche, Italy; DEMACS, University of Calabria, Italy'
+location: 'DII, Polytechnic University of Marche, Italy, DEMACS, University of Calabria, Italy'
 ---

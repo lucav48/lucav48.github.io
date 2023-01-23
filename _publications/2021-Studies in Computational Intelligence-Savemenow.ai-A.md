@@ -6,5 +6,5 @@ excerpt: 'E. Anceschi, G. Bonifazi, M.C. De Donato, E. Corradini, D. Ursino, L. 
 date: 2021-01-01
 venue: 'Studies in Computational Intelligence'
 link: 'https://doi.org/10.1007/978-3-030-52067-0_22'
-location: 'Filippetti S.p.A., Falconara Marittima, AN, Italy; DII, Polytechnic University of Marche, Ancona, Italy'
+location: 'Filippetti S.p.A., Falconara Marittima, AN, Italy, DII, Polytechnic University of Marche, Ancona, Italy'
 ---

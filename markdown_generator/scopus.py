@@ -24,13 +24,17 @@ def institutions(x):
 pub = pd.read_csv("scopus.csv")
 pub["Authors"] = pub["Authors"].apply(lambda x: authors(x))
 pub["Institutions"] = pub["Affiliations"].apply(lambda x: institutions(x))
-pub["Institutions"] = pub["Affiliations"].apply(lambda x: x.replace("“", "").replace("”", ""))
+pub["Institutions"] = pub["Institutions"].apply(lambda x: x.replace("“", "").replace("”", "")
+                                                .replace("'", " ").replace("“", ""))
+pub["Institutions"] = pub["Institutions"].apply(lambda x: x.replace("à", "a").replace('"', '')
+                                                .replace("'", " ").replace("”", ""))
 pub = pub.rename(columns={"Scopus Source title": "Journal"})
 
 for i, p in pub.iterrows():
     print(i)
     filename = str(p["Year"]) + "-" + p["Source title"] + "-" + "-".join(p["Title"].replace(":", "").split(" ")[:2]) + ".md"
     if filename not in os.listdir("../_publications/"):
+        print(p["Institutions"])
         f = open("../_publications/" + filename, "w")
         f.write("---\n")
         f.write("title: '" + p["Title"].replace("'", "").replace("–", "-") + "'\n")
