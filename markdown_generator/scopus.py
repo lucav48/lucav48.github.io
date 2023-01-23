@@ -27,7 +27,7 @@ pub["Institutions"] = pub["Affiliations"].apply(lambda x: institutions(x))
 pub["Institutions"] = pub["Institutions"].apply(lambda x: x.replace("“", "").replace("”", "")
                                                 .replace("'", " ").replace("“", ""))
 pub["Institutions"] = pub["Institutions"].apply(lambda x: x.replace("à", "a").replace('"', '')
-                                                .replace("'", " ").replace("”", ""))
+                                                .replace("'", " ").replace("”", "").replace("’", " "))
 pub = pub.rename(columns={"Scopus Source title": "Journal"})
 
 for i, p in pub.iterrows():
