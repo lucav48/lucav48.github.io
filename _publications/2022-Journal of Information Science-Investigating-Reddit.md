@@ -3,8 +3,8 @@ title: 'Investigating Reddit to detect subreddit and author stereotypes and to e
 collection: publications
 permalink: /publication/2022-Journal of Information Science-Investigating-Reddit.md
 excerpt: 'F. Cauteruccio, E. Corradini, G. Terracina, D. Ursino, L. Virgili'
-date: 2022
+date: 2022-01-01
 venue: 'Journal of Information Science'
 link: 'https://doi.org/10.1177/0165551520979869'
-location: 'DEMACS, University of Calabria, Italy, DII, Polytechnic University of Marche, Italy'
+location: 'DEMACS, University of Calabria, Italy; DII, Polytechnic University of Marche, Italy'
 ---
