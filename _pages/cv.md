@@ -18,6 +18,7 @@ Education
 
 Work experience
 ======
+* Lecturer of Fundamentals of Data Science and Machine Learning course at DBFIX, 2022
 * Lecturer of Business Intelligence course at Istituto di Formazione ISTAO, 2021
 * Lecturer of Business Intelligence course at Xplace, 2021
 * Lecturer of Social Network Analysis course at FairConnect, 2021
