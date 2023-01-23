@@ -6,5 +6,5 @@ excerpt: 'A. Amelio, G. Bonifazi, F. Cauteruccio, E. Corradini, M. Marchetti, D.
 date: 2023-01-01
 venue: 'Expert Systems with Applications'
 link: 'https://doi.org/10.1016/j.eswa.2022.119391'
-location: 'INGEO, University G. D'Annunzio of Chieti-Pescara, Italy; DII, Polytechnic University of Marche, Italy'
+location: 'INGEO, University G. D Annunzio of Chieti-Pescara, Italy, DII, Polytechnic University of Marche, Italy'
 ---

@@ -6,5 +6,5 @@ excerpt: 'C. Donato, P. Lo Giudice, R. Marretta, D. Ursino, L. Virgili'
 date: 2019-01-01
 venue: 'Journal of Documentation'
 link: 'https://doi.org/10.1108/JD-10-2018-0168'
-location: 'Avanade, Milan, Italy; University Mediterranea of Reggio Calabria, Reggio Calabria, Italy; Accenture, Milan, Italy; Department of Information Engineering, Polytechnic University of Marche, Ancona, Italy'
+location: 'Avanade, Milan, Italy, University Mediterranea of Reggio Calabria, Reggio Calabria, Italy, Accenture, Milan, Italy, Department of Information Engineering, Polytechnic University of Marche, Ancona, Italy'
 ---

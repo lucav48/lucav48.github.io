@@ -6,5 +6,5 @@ excerpt: 'A. Amelio, G. Bonifazi, E. Corradini, S. Di Saverio, M. Marchetti, D. 
 date: 2022-01-01
 venue: 'Applied Soft Computing'
 link: 'https://doi.org/10.1016/j.asoc.2022.109687'
-location: 'INGEO, University G. D'Annunzio of Chieti-Pescara, Italy; DII, Polytechnic University of Marche, Italy; Imola Informatica, Italy'
+location: 'INGEO, University G. D Annunzio of Chieti-Pescara, Italy, DII, Polytechnic University of Marche, Italy, Imola Informatica, Italy'
 ---
