@@ -37,7 +37,7 @@ for i, p in pub.iterrows():
         f.write("collection: publications\n")
         f.write("permalink: /publication/" + filename + "\n")
         f.write("excerpt: '" + p["Authors"] + "'\n")
-        f.write("date: " + str(p["Year"]) + "\n")
+        f.write("date: " + str(p["Year"]) + "-01-01\n")
         f.write("venue: '" + p["Source title"] + "'\n")
         if type(p["DOI"]) == str:
             f.write("link: 'https://doi.org/" + p["DOI"] + "'\n")
