@@ -6,5 +6,6 @@ permalink: /talks/SEBD21
 venue: "Italian Symposium on Advanced Database Systems"
 date: 24-06-2021
 location: "Pizzo Calabro, Italy"
+share: false
 ---
 I discussed an approach that uses a two-tier blockchain framework and a trust-based protection mechanism to increase the security and autonomy of smart objects in the Internet of Things.
