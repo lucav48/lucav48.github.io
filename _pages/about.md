@@ -9,28 +9,34 @@ redirect_from:
 ---
 
 Welcome! I am a PostDoc Researcher at Polytechnic University of Marche. My research interests 
-include **Machine Learning**, **Complex Network and Social Network Analysis**, and a bit of **Internet of 
-Things**. I am an enthusiastic data scientist and curious about the novelties in the Artificial
+include **Machine Learning**, **Complex Network and Social Network Analysis**. I am an enthusiastic data scientist and curious about the novelties in the Artificial
 Intelligence world.
+
+If you're interested in collaborating with me on research, feel free to reach out via email or LinkedIn.
 
 Research
 ====
-The main field of research is the analysis of **Complex and Social Networks**. I have applied Complex Network Analysis and Social Network Analysis techniques to study different contexts. Modeling a problem using a graph representation allows to obtain interesting results in many fields such as the biomedical, the technological innovation, Big Data, and the classic Social Networks.
+My research concerns the analysis of **Complex and Social Networks**. I have applied Complex Network Analysis and Social Network Analysis techniques to study different contexts. Modeling a problem using a graph representation allows to obtain interesting results in many fields such as the biomedical, the technological innovation, Big Data, and the classic Social Networks.
 
 <p style="text-align:center">
-<a href="https://journals.sagepub.com/doi/10.1177/01655515211047428">
-<img src="https://lucav48.github.io/images/network.PNG" width="80%" height="80%"/>
+<a href="https://journals.sagepub.com/doi/abs/10.1177/0165551520979869?journalCode=jisb">
+<img src="https://lucav48.github.io/images/network.jpg" width="80%" height="80%"/>
 </a></p>
 
-Another research field of interest is the **Artificial Intelligence** one. In this case, there are two different research topics. The former regards a study of how Machine Learning can be used effectively in predicting user falls. The latter regards the **Explainable AI** (XAI) and **Model Compression**. I am actually investigating the possible interpretation of deep convolutional neural networks through Multilayer Networks and Complex Network Analysis. This new representation could highlight relevant network structures, patterns and features that could be useful to understand what happens under the hood of a deep neural network. This knowledge could then be leveraged to compress a deep learning model, and so to obtain a lighter version with fewer parameters and faster training and inference times.
+My research in the field of Complex Networks has led me to investigate Convolutional Neural Networks (CNNs) using multilayer networks. Specifically, I have been developing a solution to represent CNNs such as VGG16 or ResNet50 as a multilayer network.
 <p style="text-align:center">
-<a href="https://www.sciencedirect.com/science/article/pii/S095741742101589X">
-<img src="https://lucav48.github.io/images/saliency-noline.png" width="80%" height="80%" />
+<a href="https://link.springer.com/article/10.1007/s12559-022-10084-6">
+<img src="https://lucav48.github.io/images/multilayer-cnn1.jpg" width="80%" height="80%" />
 </a></p>
 
-Finally, in the IoT context, a new field of research is the one called **Multiple IoT** (MIoT), which is a way to investigate the IoT as a set of subnets capable of interacting with each other through cross object. Several properties have been studied in this line of research, such as the definition and study of anomalies, a two-tier blockchain architecture to ensure protection and automation, a trust and reputation model of smart objects, and an approach to ensure user privacy thanks to prevent feature disclosure.
+By using my mapping approach, I was able to create a method for compressing CNN models and removing unnecessary layers while still maintaining similar performance. I believe this mapping technique has potential for use in a variety of other tasks, and I plan to further explore these possibilities in the coming years.
 
 <p style="text-align:center">
-<a href="https://www.sciencedirect.com/science/article/pii/S0140366421004084">
-<img src="https://lucav48.github.io/images/iot.png" width="80%" height="80%" />
+<a href="https://www.sciencedirect.com/science/article/pii/S0957417422024095">
+<img src="https://lucav48.github.io/images/multilayer-cnn2.jpg" width="80%" height="80%" />
 </a></p>
+
+Recently, I started studying Graph Neural Networks (GNNs) and exploring their potential applications in social network scenarios. GNNs are a variant of neural networks designed to work with graph-structured data, and they can be used for many different tasks, such as node classification, link prediction and graph classification.
+
+<p style="text-align:center">
+<img src="https://lucav48.github.io/images/socialnetwork-gnn.png" width="80%" height="80%" /></p>
