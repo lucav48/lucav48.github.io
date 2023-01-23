@@ -16,7 +16,8 @@ If you're interested in collaborating with me on research, feel free to reach ou
 
 Research
 ====
-My research concerns the analysis of **Complex and Social Networks**. I have applied Complex Network Analysis and Social Network Analysis techniques to study different contexts. Modeling a problem using a graph representation allows to obtain interesting results in many fields such as the biomedical, the technological innovation, Big Data, and the classic Social Networks.
+My research focuses on **Complex and Social Networks**, using techniques from Complex Network Analysis and Social Network Analysis to study different scenarios. Through the graph representation, I have obtained valuable insights in fields such as deep learning, biomedical, and Social Networks.
+
 
 <p style="text-align:center">
 <a href="https://journals.sagepub.com/doi/abs/10.1177/0165551520979869?journalCode=jisb">
