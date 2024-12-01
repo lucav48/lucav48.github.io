@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a PostDoc Researcher at Polytechnic University of Marche. My research interests 
+Welcome! I am a Researcher Tenure-Track at Polytechnic University of Marche. My research interests 
 include **Machine Learning**, **Complex Network and Social Network Analysis**. I am an enthusiastic data scientist and curious about the novelties in the Artificial
 Intelligence world.
 

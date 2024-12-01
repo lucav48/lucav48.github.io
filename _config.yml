@@ -85,13 +85,13 @@ analytics:
 author:
   name             : "Luca Virgili"
   avatar           : "profile.png"
-  bio              : "PostDoc Researcher at Polytechnic University of Marche"
+  bio              : "Resarcher Tenure-Track at Polytechnic University of Marche"
   location         : "Ancona, Marche"
   employer         : #"Polytechnic University of Marche"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=2D771YsAAAAJ"
-  email            : "luca.virgili@staff.univpm.it"
-  researchgate     :  "https://www.researchgate.net/profile/Luca-Virgili"
+  email            : "luca.virgili@univpm.it"
+  researchgate     :  #"https://www.researchgate.net/profile/Luca-Virgili"
   uri              :
   bitbucket        :
   codepen          :
@@ -112,7 +112,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "lucav48"
+  twitter          :
   vine             :
   weibo            :
   xing             :
