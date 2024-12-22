@@ -2,7 +2,7 @@
 title: 'A deep learning approach to classify country and value of modern coins'
 collection: publications
 permalink: /publication/2024-Neural Computing and Applications-A-deep.md
-excerpt: 'L. Cirillo S.; Solimando G.; Virgili'
+excerpt: 'S. Cirillo, G. Solimando, L. Virgili'
 date: 2024-01-01
 venue: 'Neural Computing and Applications'
 link: 'https://doi.org/10.1007/s00521-023-09355-6'

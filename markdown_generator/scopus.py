@@ -4,7 +4,7 @@ import pandas as pd
 
 
 def authors(x):
-    aut = x.split(", ")
+    aut = x.split("; ")
     new_aut = []
     for a in aut:
         parts = a.split(" ")
@@ -33,7 +33,7 @@ pub = pub.rename(columns={"Scopus Source title": "Journal"})
 for i, p in pub.iterrows():
     print(i)
     filename = str(p["Year"]) + "-" + p["Source title"] + "-" + "-".join(p["Title"].replace(":", "").split(" ")[:2]) + ".md"
-    if filename not in os.listdir("../_publications/") and "Correction" not in p["Title"]:
+    if "Correction" not in p["Title"]:
         print(p["Institutions"])
         f = open("../_publications/" + filename, "w")
         f.write("---\n")
