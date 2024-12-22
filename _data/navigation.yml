@@ -17,8 +17,8 @@ main:
   - title: "Talks"
     url: /talks/    
 
-#  - title: "Posts"
-#    url: /year-archive/
+  - title: "Thesis Proposal"
+    url: /thesis/
     
 #  - title: "Resume"
 #    url: /cv/
