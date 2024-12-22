@@ -8,4 +8,3 @@ date: 12-06-2023
 location: "Thessaloniki, Greece"
 share: false
 ---
-https://www.doi.org/10.1145/3591106.3592294
