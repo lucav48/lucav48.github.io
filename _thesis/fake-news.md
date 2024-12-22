@@ -1,5 +1,5 @@
 ---
-title: "Aligning LLMs with Computer Vision for Fake News Detection"
+title: "Fake News Detection"
 collection: thesis
 permalink: /thesis/fake-news
 share: false

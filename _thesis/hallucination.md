@@ -1,5 +1,5 @@
 ---
-title: "Mental Health Analysis"
+title: "Hallucination Detection"
 collection: thesis
 permalink: /thesis/hallucination
 share: false
