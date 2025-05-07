@@ -32,28 +32,4 @@ author_profile: true
   {% endfor %}
 {% endif %}
 
-<script>
-document.addEventListener('DOMContentLoaded', function () {
-  const searchInput = document.getElementById('pub-search');
-  const yearFilter = document.getElementById('pub-year');
-  const items = document.querySelectorAll('.pub-item');
-
-  function filterPubs() {
-    const query = searchInput.value.toLowerCase();
-    const year = yearFilter.value;
-
-    items.forEach(item => {
-      const text = item.textContent.toLowerCase();
-      const matchesQuery = text.includes(query);
-      const matchesYear = !year || item.classList.contains(year);
-      item.style.display = (matchesQuery && matchesYear) ? '' : 'none';
-    });
-  }
-
-  searchInput.addEventListener('input', filterPubs);
-  yearFilter.addEventListener('change', filterPubs);
-});
-</script>
-
-
 
