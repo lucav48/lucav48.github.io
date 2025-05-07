@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Luca Virgili"
 title_separator          : "-"
 name                     : &name "Luca Virgili"
-description              : &description "PostDoc Researcher at Polytechnic University of Marche"
+description              : &description "Researcher Tenure-Track at Università Politecnica delle Marche"
 url                      : https://lucavirgili.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lucav48/lucav48.github.io"
@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "Luca Virgili"
   avatar           : "profile.png"
-  bio              : "Researcher Tenure-Track at Polytechnic University of Marche"
+  bio              : "Researcher Tenure-Track at Università Politecnica delle Marche"
   location         : "Ancona, Italy"
   employer         : #"Polytechnic University of Marche"
   pubmed           :
