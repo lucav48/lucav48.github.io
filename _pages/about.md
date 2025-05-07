@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-## Welcome
-
 I’m **Luca Virgili**, tenure-track researcher at the Department of Information Engineering, Università Politecnica delle Marche (Italy).
 
 My research lies at the intersection of **Artificial Intelligence** and **Complex Networks**. I am particularly interested in understanding the behavior of interconnected systems and in developing machine learning models that are both interpretable and computationally efficient for real-world applications.
