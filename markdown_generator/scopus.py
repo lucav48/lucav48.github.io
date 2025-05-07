@@ -33,7 +33,7 @@ pub = pub.rename(columns={"Scopus Source title": "Journal"})
 for i, p in pub.iterrows():
     print(i)
     filename = str(p["Year"]) + "-" + p["Source title"] + "-" + "-".join(p["Title"].replace(":", "").split(" ")[:2]) + ".md"
-    if "Correction" not in p["Title"]:
+    if "Correction" not in p["Title"] and not os.path.isfile("../_publications/" + filename):
         print(p["Institutions"])
         f = open("../_publications/" + filename, "w")
         f.write("---\n")
