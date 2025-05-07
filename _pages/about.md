@@ -12,8 +12,6 @@ I’m **Luca Virgili**, tenure-track researcher at the Department of Information
 
 My research lies at the intersection of **Artificial Intelligence** and **Complex Networks**. I am particularly interested in understanding the behavior of interconnected systems and in developing machine learning models that are both interpretable and computationally efficient for real-world applications.
 
----
-
 ## Research Interests
 
 - **Complex and Social Networks analysis** and modeling of online interactions
@@ -49,11 +47,10 @@ I teach undergraduate and graduate courses on:
 - **Fundamentals of Computer Science**
 - **Object-Oriented Programming**
 - **Data Science Labs (Python, Pandas, ML)**
-- **AI-Driven Cybersecurity (PhD)**
+- **AI-Driven Cybersecurity**
 
 See the [Teaching section](./teaching/) for materials and syllabi.
 
----
 
 ## Thesis Opportunities
 
@@ -65,8 +62,6 @@ If you’re interested in a thesis on:
 - Applications of GNNs  
 
 Check the [Thesis Proposal page](./thesis/).
-
----
 
 ## Contact
 
