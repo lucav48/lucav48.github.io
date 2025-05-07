@@ -24,8 +24,6 @@ My research lies at the intersection of **Artificial Intelligence** and **Comple
 
 My work is often interdisciplinary, spanning social media, education, cybersecurity, and human-centered AI.
 
----
-
 ## Projects
 
 Below are some research highlights with potential real-world applications:
@@ -42,9 +40,7 @@ We used GNNs to detect key influencers and community evolution patterns in socia
 Our approach improves the performance and interpretability of ViTs while reducing complexity.  
 **Applications**: Embedded AI, edge computing, industrial automation.
 
-📁 Want to explore collaboration opportunities? Get in touch!
-
----
+Want to explore collaboration opportunities? Get in touch!
 
 ## Teaching
 
