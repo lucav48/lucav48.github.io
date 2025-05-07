@@ -36,7 +36,7 @@ We used GNNs to detect key influencers and community evolution patterns in socia
 
 ### 🧠 Efficient Vision Transformers via Pruning and Knowledge Distillation
 Our approach improves the performance and interpretability of ViTs while reducing complexity.  
-**Applications**: Embedded AI, edge computing, industrial automation.
+**Applications**: Embedded AI, model compression, visual explainability.
 
 Want to explore collaboration opportunities? Get in touch!
 
@@ -46,6 +46,7 @@ I teach undergraduate and graduate courses on:
 
 - **Fundamentals of Computer Science**
 - **Object-Oriented Programming**
+- **Big Data Labs (Qlik, Tableau, PowerBI)**
 - **Data Science Labs (Python, Pandas, ML)**
 - **AI-Driven Cybersecurity**
 
@@ -57,7 +58,7 @@ See the [Teaching section](./teaching/) for materials and syllabi.
 If you’re interested in a thesis on:
 
 - Explainable AI  
-- Network Analysis  
+- Complex Network Analysis  
 - Vision Transformers  
 - Applications of GNNs  
 
