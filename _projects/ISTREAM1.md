@@ -1,7 +1,8 @@
 ---
 title: 'iStream: Higher Education programmes on Immersive journalism approach'
-date: '2025-07-20'
-permalink: /posts/2026/10/istream-introduction/
+layout: single
+date: '2026-10-20'
+permalink: /projects/istream-introduction/
 excerpt: Introducing iStream, an Erasmus+ project bringing immersive journalism into higher education.
 tags:
 - iStream
@@ -9,11 +10,13 @@ tags:
 - Higher education
 - Erasmus+
 ---
-<p style="text-align: center;">
+
+<figure style="text-align: center;">
   <img src="{{ '/images/istream-logo.png' | relative_url }}"
        alt="iStream project logo"
-       style="width: 350px; max-width: 100%; height: auto;">
-</p>
+       style="width: 250px; max-width: 100%; height: auto;">
+</figure>
+
 The iStream project is an Erasmus+ cooperation initiative (KA220-HED) designed to modernize journalism education by introducing immersive, technology-driven approaches into higher education. The project brings together a consortium of universities and academic partners working collaboratively to rethink how journalism is taught, learned, and practiced in a rapidly evolving digital environment.
 
 At its core, iStream responds to the transformation of the media landscape, where storytelling is becoming increasingly interactive, visual, and audience centered. The project promotes the integration of immersive technologies including virtual reality, augmented reality, and 360-degree media into academic programmes, enabling students and faculty competencies to experience and promote news rather than simply consume it. This shift supports deeper engagement and opens new possibilities for communicating complex social, cultural, and scientific topics.
@@ -38,7 +41,19 @@ Within this framework, Università Politecnica delle Marche (UNIVPM), Italy play
 
 Visit the project website: [www.istream-project.eu](https://www.istream-project.eu/).
 
+<figure style="text-align: center;">
+  <img src="{{ '/images/istream-partners.png' | relative_url }}"
+       alt="iStream project partners"
+       style="max-width: 100%; height: auto;">
+</figure>
+
 ---
+
+<figure style="text-align: center;">
+  <img src="{{ '/images/istream-eu-funding.png' | relative_url }}"
+       alt="Co-funded by the European Union"
+       style="width: 400px; max-width: 100%; height: auto;">
+</figure>
 
 Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the Fundacja Rozwoju Systemu Edukacji. Neither the European Union nor Fundacja Rozwoju Systemu Edukacji can be held responsible for them.
 
