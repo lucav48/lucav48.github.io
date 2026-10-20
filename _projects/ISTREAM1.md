@@ -1,7 +1,7 @@
 ---
 title: 'iStream: Higher Education programmes on Immersive journalism approach'
-date: '2024-11-20'
-collection: projects
+layout: single
+date: '2026-10-20'
 permalink: /projects/istream-introduction/
 excerpt: Introducing iStream, an Erasmus+ project bringing immersive journalism into higher education.
 tags:
@@ -12,7 +12,7 @@ tags:
 ---
 
 <figure style="text-align: center;">
-  <img src="{{ '/images/istream-logo.png' | relative_url }}"
+  <img src="{{ '/images/istream/istream-logo.png' | relative_url }}"
        alt="iStream project logo"
        style="width: 250px; max-width: 100%; height: auto;">
 </figure>
@@ -42,7 +42,7 @@ Within this framework, Università Politecnica delle Marche (UNIVPM), Italy play
 Visit the project website: [www.istream-project.eu](https://www.istream-project.eu/).
 
 <figure style="text-align: center;">
-  <img src="{{ '/images/istream-partners.png' | relative_url }}"
+  <img src="{{ '/images/istream/istream-partners.png' | relative_url }}"
        alt="iStream project partners"
        style="max-width: 100%; height: auto;">
 </figure>
@@ -50,7 +50,7 @@ Visit the project website: [www.istream-project.eu](https://www.istream-project.
 ---
 
 <figure style="text-align: center;">
-  <img src="{{ '/images/istream-eu-funding.png' | relative_url }}"
+  <img src="{{ '/images/istream/istream-eu-funding.png' | relative_url }}"
        alt="Co-funded by the European Union"
        style="width: 400px; max-width: 100%; height: auto;">
 </figure>
