@@ -1,10 +1,9 @@
 ---
 title: Experience from the iStream Transnational Training Course
 layout: single
-date: '2026-10-20'
+date: '2026-05-11'
 permalink: /projects/istream-mobility-experience/
 excerpt: The UNIVPM experience at the iStream Transnational Training Course in Kraków, March 23–27, 2026.
-layout: single
 tags:
 - iStream
 - Immersive journalism

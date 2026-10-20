@@ -1,7 +1,7 @@
 ---
 title: 'iStream Lab Guidelines: A Resource for Building and Managing Immersive Journalism Labs'
 layout: single
-date: '2026-10-20'
+date: '2026-07-23'
 permalink: /projects/istream-lab-guidelines/
 excerpt: A practical resource for designing, equipping, and managing immersive journalism labs.
 tags:
