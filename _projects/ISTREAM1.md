@@ -1,7 +1,7 @@
 ---
 title: 'iStream: Higher Education programmes on Immersive journalism approach'
 layout: single
-date: '2026-10-20'
+date: '2024-11-14'
 permalink: /projects/istream-introduction/
 excerpt: Introducing iStream, an Erasmus+ project bringing immersive journalism into higher education.
 tags:
